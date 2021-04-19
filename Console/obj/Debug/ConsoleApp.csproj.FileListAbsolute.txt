@@ -1,0 +1,10 @@
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\ConsoleApp.exe.config
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\ConsoleApp.exe
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\ConsoleApp.pdb
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\ConsoleApp.exe
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\ConsoleApp.pdb
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,10 @@
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\Console.exe.config
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\Console.exe
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\Console.pdb
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\Console.exe
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\Console.pdb
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\bin\Debug\SpreadsheetLight.dll
+C:\Users\dutho\Desktop\Testes WiPro\ProvaCSharp\Console\obj\Debug\Console.csproj.CopyComplete
